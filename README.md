@@ -1,5 +1,5 @@
 <h2> Salve devs 👋, blz? Eu sou Fernando</h2>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fernandothx" alt="fernandothx" /> </p>
 <h3> 👨🏻‍💻 Sobre mim </h3>
 
 Bacharel em Analista de Sistemas, professor/comunicador, entusiasta, sonhador nato, escritor de um não-best-seller, foco nos objetivos, lava pratos e nas demais horas medita. 
@@ -9,7 +9,7 @@ Bacharel em Analista de Sistemas, professor/comunicador, entusiasta, sonhador na
 <br/>
 <div align="center">
   <a href="https://github.com/fernandothx/readme">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fernandothx&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fernandothx&show_icons=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandothx&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
