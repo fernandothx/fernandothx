@@ -1,4 +1,15 @@
-## 𝐃𝐁𝐀 | 𝐍𝐞𝐭𝐰𝐨𝐫𝐤 | 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 | 𝐌𝐚𝐫𝐤𝐞𝐭𝐢𝐧𝐠.
+<h2> Salve devs 👋, blz? Eu sou Fernando</h2>
+
+<h3> 👨🏻‍💻 Sobre mim </h3>
+
+Bacharel em Analista de Sistemas, professor/comunicador, entusiasta, sonhador nato, escritor de um não-best-seller, foco nos objetivos, lava pratos e nas demais horas medita. 
+
+Programador nas linguagens de programação e ferramentas: 
+Html, PHP, Java, Python, JavaScript, MySQL, PostgreSQL entre outros.
+
+- 💼 &nbsp; Trabalho na área de analista de redes, troubleshooting e Suporte Nível II.
+
+<br/>
 <div align="center">
   <a href="https://github.com/fernandothx/readme">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fernandothx&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -24,7 +35,7 @@
   <img align="right" alt="pic" height="150" style="border-radius:50px;" src="https://i.imgur.com/LZfw7uQ.png?width=676&height=676">
 </div>
   
-  ##
+<h3> 🤝🏻 Conecte-se comigo </h3>
  
 <div> 
   <a href="https://www.youtube.com/channel/UCjW7C6-j_-kSC0TRBWklHvw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
