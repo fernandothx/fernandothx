@@ -1,13 +1,13 @@
 <h2> Salve 👋, blz? Eu sou Fernando Ricardo</h2>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=fernandothx" alt="fernandothx" /> 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fernandothx" alt="fernandothx"/> 
 </p>
 <h3> 👨🏻‍💻 Sobre mim </h3>
 
 Bacharel em Analista de Sistemas, professor/comunicador, entusiasta, sonhador nato, escritor de um não-best-seller, foco nos objetivos, lava pratos e nas demais horas medita. 
 
 - 💼 &nbsp; Trabalho na área de analista de redes, troubleshooting e Suporte Nível II.
-<img align="right" alt="pic" height="150" style="border-radius:50px;" src="https://i.imgur.com/LZfw7uQ.png?width=676&height=676">
-<br/>
+<br>
+
 <div align="center">
   <a href="https://github.com/fernandothx/readme">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fernandothx&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
