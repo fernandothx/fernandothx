@@ -4,9 +4,6 @@
 
 Bacharel em Analista de Sistemas, professor/comunicador, entusiasta, sonhador nato, escritor de um não-best-seller, foco nos objetivos, lava pratos e nas demais horas medita. 
 
-Programador nas linguagens de programação e ferramentas: 
-Html, PHP, Java, Python, JavaScript, MySQL, PostgreSQL entre outros.
-
 - 💼 &nbsp; Trabalho na área de analista de redes, troubleshooting e Suporte Nível II.
 
 <br/>
@@ -15,6 +12,8 @@ Html, PHP, Java, Python, JavaScript, MySQL, PostgreSQL entre outros.
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fernandothx&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandothx&layout=compact&langs_count=7&theme=dracula"/>
 </div>
+  
+  Programador nas linguagens de programação e ferramentas: Html, PHP, Java, Python, JavaScript, MySQL, PostgreSQL entre outros.
 <div style="display: inline_block"><br>
   <img align="center" alt="Windows" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg">
   <img align="center" alt="Linux" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
