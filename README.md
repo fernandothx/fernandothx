@@ -11,10 +11,9 @@ Bacharel em Analista de Sistemas, professor/comunicador, entusiasta, sonhador na
 <div align="center">
   <a href="https://github.com/fernandothx/readme">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fernandothx&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    </br>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandothx&layout=compact&langs_count=7&theme=dracula"/>
 </div>
-  <p>
+  <br>
  <h4> Programador nas linguagens de programação e ferramentas: Html, PHP, Java, Python, JavaScript, MySQL, PostgreSQL entre outros.</h4>
 <div style="display: inline_block"><br>
   <img align="center" alt="Windows" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg">
@@ -35,7 +34,7 @@ Bacharel em Analista de Sistemas, professor/comunicador, entusiasta, sonhador na
   <img align="center" alt="Alexa" height="30" width="40" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/amazon_alexa.svg">
   <img align="right" alt="pic" height="150" style="border-radius:50px;" src="https://i.imgur.com/LZfw7uQ.png?width=676&height=676">
 </div>
-  <p>
+  <br><br>
 <h3> 🤝🏻 Conecte-se comigo </h3>
  
 <div> 
