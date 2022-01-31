@@ -32,7 +32,6 @@ Bacharel em Analista de Sistemas, professor/comunicador, entusiasta, sonhador na
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Java" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg">
   <img align="center" alt="Alexa" height="30" width="40" src="https://github.com/edent/SuperTinyIcons/blob/master/images/svg/amazon_alexa.svg">
-  <img align="right" alt="pic" height="150" style="border-radius:50px;" src="https://i.imgur.com/LZfw7uQ.png?width=676&height=676">
 </div>
   <br><br>
 <h3> 🤝🏻 Conecte-se comigo </h3>
