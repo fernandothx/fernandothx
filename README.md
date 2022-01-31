@@ -13,7 +13,7 @@ Bacharel em Analista de Sistemas, professor/comunicador, entusiasta, sonhador na
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandothx&layout=compact&langs_count=7&theme=dracula"/>
 </div>
   
- <h3> Programador nas linguagens de programação e ferramentas: Html, PHP, Java, Python, JavaScript, MySQL, PostgreSQL entre outros.</h3>
+ <h4> Programador nas linguagens de programação e ferramentas: Html, PHP, Java, Python, JavaScript, MySQL, PostgreSQL entre outros.</h4>
 <div style="display: inline_block"><br>
   <img align="center" alt="Windows" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg">
   <img align="center" alt="Linux" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
