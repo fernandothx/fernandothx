@@ -11,7 +11,7 @@ Bacharel em Analista de Sistemas, professor/comunicador, entusiasta, sonhador na
 <div align="center">
   <a href="https://github.com/fernandothx/readme">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fernandothx&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandothx&layout=compact&langs_count=7&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandothx&layout=compact&langs_count=7&theme=dark"/>
 </div>
   <br>
  <h4> Programador nas linguagens de programação e ferramentas: Html, PHP, Java, Python, JavaScript, MySQL, PostgreSQL entre outros.</h4>
