@@ -5,7 +5,7 @@
 
 Bacharel em Analista de Sistemas, professor/comunicador, entusiasta, sonhador nato, escritor de um não-best-seller, foco nos objetivos, lava pratos e nas demais horas medita. 
 
-- 💼 &nbsp; Trabalho na área de Analista de Redes, Monitoramento de Ativos, troubleshooting, Suporte Nível II e Atendimento ao Cliente.
+- 💼 &nbsp; Trabalho na área de Analista de Redes, Monitoramento de Ativos, troubleshooting, NOC Jr,  Atendimento ao Cliente e um tiquim no marketing 😂.
 <br>
 
 <div align="center">
