@@ -8,12 +8,7 @@ Bacharel em Analista de Sistemas, professor/comunicador, entusiasta, sonhador na
 - 💼 &nbsp; Trabalho na área de Analista de Redes, Monitoramento de Ativos, troubleshooting, NOC Jr,  Atendimento ao Cliente e um tiquim no marketing 😂.
 <br>
 
-<div align="center">
-  <a href="https://github.com/fernandothx/readme">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fernandothx&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandothx&layout=compact&langs_count=7&theme=dark"/>
-</div>
-  <br>
+
  <h4> Programador nas linguagens de programação e ferramentas: Html, PHP, Java, Python, JavaScript, MySQL, PostgreSQL entre outros.</h4>
 <div style="display: inline_block"><br>
   <img align="center" alt="Windows" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/windows8/windows8-original.svg">
