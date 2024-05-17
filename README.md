@@ -9,7 +9,7 @@ Bacharel em Analista de Sistemas, professor/comunicador, entusiasta, sonhador na
 <br>
 
 <div> 
-  <a href="https://wa.me/5538998397896" target="_blank"><img src="[https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white" target="_blank"></a>
+  <a href="https://wa.me/5538998397896" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=WhatsApp&logoColor=white" target="_blank"></a>
   <a href="https://www.youtube.com/channel/UCjW7C6-j_-kSC0TRBWklHvw" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://www.instagram.com/nandothx/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href="https://discord.com/channels/fernandothx#1526" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
